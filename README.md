@@ -9,9 +9,22 @@ _Fluente runs directly in your browser. No installation needed._
 
 ## What is 🇮🇹 Fluente?
 
-**Fluente** is a premium, beautifully designed Vanilla HTML/CSS/JS web app that helps Italian learners (A1–B2) practice speaking **like a local**.
+**Fluente** is a fully personalized, AI-powered Italian speaking tutor designed for learners from **A1 to B2** who want to speak naturally — not like a textbook.
 
-Instead of memorizing textbook grammar, Fluente uses AI to simulate **real, spontaneous Italian conversations**, giving you corrections, explanations, and personalized feedback in real time.
+Unlike generic translation or speaking apps, Fluente adapts **entirely to your mistakes**. As you speak, it instantly detects mispronounced, misspelled, or incorrectly used words, corrects what you said, and shows you the **natural Italian alternative in real time**.
+
+You stay in control of your practice:
+- ⏸️ **Pause, think, and continue** without being interrupted  
+- 🎙️ **Manually start and stop recording**, instead of pauses being treated as “finished input”  
+- ⚡ **Adjust speaking and response speed** to match your comfort level  
+
+When you end a session, Fluente doesn’t just stop — it **analyzes your performance** and generates:
+- a clear list of recurring mistakes  
+- improvement areas  
+- corrected examples  
+- personalized flashcards and quizzes based on *your* errors  
+
+The result is a **closed learning loop** where every conversation directly improves your Italian.
 
 ---
 
