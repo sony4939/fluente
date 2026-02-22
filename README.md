@@ -1,16 +1,74 @@
 # 🇮🇹 Fluente: AI-Powered Italian Tutor
 
-Fluente is a premium, beautifully designed Vanilla HTML/CSS/JS web application that helps Italian learners from level A1-B2 practice speaking "like a local". Instead of just memorizing textbook grammar, Fluente connects directly to the **OpenAI API** to provide dynamic, spontaneous conversation practice right in your browser.
+👉 **Try it live (no setup required):**  
+https://sony4939.github.io/fluente/
+
+_Fluente runs directly in your browser. No installation needed._
+
+---
+
+## What is 🇮🇹 Fluente?
+
+**Fluente** is a premium, beautifully designed Vanilla HTML/CSS/JS web app that helps Italian learners (A1–B2) practice speaking **like a local**.
+
+Instead of memorizing textbook grammar, Fluente uses AI to simulate **real, spontaneous Italian conversations**, giving you corrections, explanations, and personalized feedback in real time.
+
+---
 
 ## ✨ Features
 
-- **🗣️ Dynamic AI Conversations**: Practice fluently on abstract topics like modern life, travel, and culture.
-- **💡 "Explain This" Button**: The AI Tutor will break down confusing Italian verbs or prepositions with a single click in the chat.
-- **🎙️ Beginner-Friendly Mic Controls**: Manually start and stop recording, allowing you to pause, think, and structure your Italian sentences without being cut off.
-- **📊 Personalized Session Notes**: After you finish a conversation, the app analyzes your mistakes and gives you actionable feedback and example sentences.
-- **📇 Auto-Generated Flashcards**: The tutor automatically generates custom flashcards based on the exact words you struggled with during your chat!
-- **⏱️ Rapid Fire Quiz Mode**: Test your knowledge across categories like Food, Travel, Family, and your own custom mistakes.
-- **🔒 100% Client-Side Privacy**: Your OpenAI API key is saved locally in your browser's `localStorage` and never touches a backend database.
+- 🗣️ **Dynamic AI Conversations**  
+  Practice natural Italian on real-life and abstract topics like modern life, travel, and culture.
+
+- 💡 **“Explain This” Button**  
+  Instantly get clear explanations for confusing verbs, prepositions, or sentence structures.
+
+- 🎙️ **Beginner-Friendly Mic Controls**  
+  Manually start and stop recording so you can pause, think, and structure your sentences confidently.
+
+- 📊 **Personalized Session Notes**  
+  After each conversation, Fluente analyzes what you said, highlights mistakes, and provides corrected examples.
+
+- 📇 **Smart Flashcards from Your Mistakes**  
+  Flashcards are automatically generated from **misspelled, mispronounced, or incorrectly used words and phrases** during your conversations — so you study exactly what you need.
+
+- ⏱️ **Targeted Quiz Mode (Mistake-Based)**  
+  Choose specific mistakes from a dropdown and generate quizzes focused **only on those errors**, in addition to daily scenario-based quizzes (Food, Travel, Family, etc.).
+
+- 🔢 **Daily Scenarios & Custom Quiz Lengths**  
+  Practice with a configurable number of daily scenarios, or drill down into a specific set of mistakes for rapid improvement.
+
+- 🔒 **100% Client-Side Privacy**  
+  Your OpenAI API key is stored locally in your browser (`localStorage`) and never touches a backend database.
+---
+
+## 🚀 How to Use (Recommended)
+
+1. Open the live app:  
+   👉 https://sony4939.github.io/fluente/
+
+2. Go to the **Conversation** tab  
+3. Click the ⚙️ **Settings** icon  
+4. Paste your **OpenAI API key** (`sk-...`)  
+5. Save and start speaking 🇮🇹
+
+✅ No cloning  
+✅ No local server  
+✅ Works directly in the browser
+
+> **Best experience:** Chrome or Edge (Web Speech API support)
+
+---
+
+## ⚠️ Notes About the Live Demo
+
+- Hosted on **GitHub Pages**
+- Runs entirely client-side
+- Requires your own OpenAI API key
+- Some browser features depend on Web Speech API availability
+
+---
+
 
 ## 🚀 How to Run Locally
 
