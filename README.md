@@ -1,6 +1,6 @@
 # 🇮🇹 Fluente: AI-Powered Italian Tutor
 
-Fluente is a premium, beautifully designed Vanilla HTML/CSS/JS web application that helps B1-level Italian learners practice speaking "like a local". Instead of just memorizing textbook grammar, Fluente connects directly to the **OpenAI API** to provide dynamic, spontaneous conversation practice right in your browser.
+Fluente is a premium, beautifully designed Vanilla HTML/CSS/JS web application that helps Italian learners from level A1-B2 practice speaking "like a local". Instead of just memorizing textbook grammar, Fluente connects directly to the **OpenAI API** to provide dynamic, spontaneous conversation practice right in your browser.
 
 ## ✨ Features
 
